@@ -77,7 +77,7 @@ O projeto seguiu um fluxo de trabalho estruturado em quatro etapas principais:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone https://github.com/[SEU-USUARIO]/[SEU-REPOSITORIO].git
+    git clone [https://github.com/[SEU-USUARIO]/[SEU-REPOSITORIO].git](https://github.com/idarlandias/Fundamentos-de-Mineracao-de-Dados.git)
     ```
 2.  **Ambiente:** Abra o arquivo `.ipynb` no Google Colab ou em um ambiente Jupyter local.
 3.  **Dataset:** Faça o upload do arquivo `fakeTelegram.BR_2022.csv` para o ambiente de execução.
@@ -86,9 +86,9 @@ O projeto seguiu um fluxo de trabalho estruturado em quatro etapas principais:
 
 ## ✒️ Autor
 
-*   **[SEU NOME]**
-*   **LinkedIn:** [URL do seu LinkedIn]
-*   **GitHub:** [URL do seu GitHub]
+*   **Idarlan Rogério Dias Magalhães**
+*   **LinkedIn:** https://www.linkedin.com/in/idarlandias/
+*   **GitHub:** https://github.com/idarlandias
 
 ## 📜 Licença
 
